@@ -1,5 +1,5 @@
 {
-  "title": "CSS 343 Data Structures Projects",
+  "title": "CSS 343: Data Structures and Algorithms II Projects",
   "subtitle": "Collection of Object-Oriented C++ Data Structure Implementations",
   "description": "This repository contains four C++ projects developed for CSS 343 covering linked lists, binary trees, graph representations, and a movie rental inventory system. Each project demonstrates advanced data structure design, algorithms, object-oriented principles, and thorough testing.",
   "technologies": [
